@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pothole Finder</string>
+    <string name="add_report">Add Report</string>
+    <string name="show_report">Show Reports</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="add_image">Add Image</string>
+    <string name="text_description">Description (Maximum 300 Characters)</string>
+    <string name="user_id">User ID</string>
+    <string name="photo_details">Pothole Image</string>
+    <string name="detailed_des">Detailed Description</string>
+    <string name="desc">Description</string>
+    <string name="location">Location Details</string>
+    <string name="error_timeout">Oops! Your Connection Timed Out</string>
+    <string name="error_auth_failure">Oops! Sever Says It Doesn\'t Recognize You</string>
+    <string name="error_network">Oops!Server Just Messed Up</string>
+    <string name="error_parser">Oops! Data Received Was An Unreadable Mess</string>
+    <string name="google_app_id">AIzaSyDuopCr2wtx1UyJHZxCzwQ3r4218d9NpZo</string>
+</resources>
